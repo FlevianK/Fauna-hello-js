@@ -1,0 +1,23 @@
+{
+  "name": "fauna-hello",
+  "version": "1.0.0",
+  "description": "Hello world tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlevianK/Fauna-hello-js.git"
+  },
+  "author": "Flevian Kanaiza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FlevianK/Fauna-hello-js/issues"
+  },
+  "homepage": "https://github.com/FlevianK/Fauna-hello-js#readme",
+  "dependencies": {
+    "faunadb": "^2.0.2"
+  }
+}
